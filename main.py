@@ -1,7 +1,4 @@
 # Name: Kevin D
-# Date: June 7th 2021
-# Course: ICS3U1-11
-# Teacher: Mr. Shaft
 # Purpose: A basic paint program that allows you to draw pictures, shapes, and save & open images.
 
 # References:
